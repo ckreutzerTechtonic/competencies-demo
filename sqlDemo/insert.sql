@@ -1,0 +1,20 @@
+INSERT INTO competencies_demo.pitBullFriendlyRentalCompanies(agency_name, breed_ban, notes)
+VALUES
+  ("Wellspring Property Management", 1, NULL),
+  ("Fox Property Management",	0, "No blanket policy - some owners may have restrictions"),
+  ("Phoenix Property Management",	0, "Breed-friendly!"),
+  ("Keyrenter", 0, "'Where applicable' - In cities with pit bull bans?"),
+  ("Invitation Homes", 1, NULL),	
+  ("Real Estate Solutions",	1, NULL),	
+  ("RentSteps",	1, NULL),	
+  ("Blue Sage",	0, "Protection Breeds? Meet Manager?"),
+  ("Aspen Management", 1, NULL),
+  ("Fake Rentals", 1, "Just here to demonstrate delete"),
+  ("Grace Property Management",	1, NULL),	
+  ("8z", 0,	"No blanket policy - some owners may have restrictions"),
+  ("Turner Realty",	0, "Email Sent"),
+  ("Premire Investment", 0, "No blanket policy - some owners may be have restrictions"),
+  ("Double Black Diamond Development", 1, NULL),	
+  ("Real Property Management", 0,	"No blanket policy - some owners may have restrictions"),
+  ("1 Blue Realty", 1, NULL),	
+  ("Evolve Real Estate", 1, NULL);	

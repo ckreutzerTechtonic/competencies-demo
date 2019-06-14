@@ -1,0 +1,11 @@
+/Users/chadkreutzer/Documents/competencies-demo/cSharpDemo/CSharpDemo/CSharpDemo/bin/Debug/netcoreapp2.1/CSharpDemo.deps.json
+/Users/chadkreutzer/Documents/competencies-demo/cSharpDemo/CSharpDemo/CSharpDemo/bin/Debug/netcoreapp2.1/CSharpDemo.runtimeconfig.json
+/Users/chadkreutzer/Documents/competencies-demo/cSharpDemo/CSharpDemo/CSharpDemo/bin/Debug/netcoreapp2.1/CSharpDemo.runtimeconfig.dev.json
+/Users/chadkreutzer/Documents/competencies-demo/cSharpDemo/CSharpDemo/CSharpDemo/bin/Debug/netcoreapp2.1/CSharpDemo.dll
+/Users/chadkreutzer/Documents/competencies-demo/cSharpDemo/CSharpDemo/CSharpDemo/bin/Debug/netcoreapp2.1/CSharpDemo.pdb
+/Users/chadkreutzer/Documents/competencies-demo/cSharpDemo/CSharpDemo/CSharpDemo/obj/Debug/netcoreapp2.1/CSharpDemo.csprojAssemblyReference.cache
+/Users/chadkreutzer/Documents/competencies-demo/cSharpDemo/CSharpDemo/CSharpDemo/obj/Debug/netcoreapp2.1/CSharpDemo.csproj.CoreCompileInputs.cache
+/Users/chadkreutzer/Documents/competencies-demo/cSharpDemo/CSharpDemo/CSharpDemo/obj/Debug/netcoreapp2.1/CSharpDemo.AssemblyInfoInputs.cache
+/Users/chadkreutzer/Documents/competencies-demo/cSharpDemo/CSharpDemo/CSharpDemo/obj/Debug/netcoreapp2.1/CSharpDemo.AssemblyInfo.cs
+/Users/chadkreutzer/Documents/competencies-demo/cSharpDemo/CSharpDemo/CSharpDemo/obj/Debug/netcoreapp2.1/CSharpDemo.dll
+/Users/chadkreutzer/Documents/competencies-demo/cSharpDemo/CSharpDemo/CSharpDemo/obj/Debug/netcoreapp2.1/CSharpDemo.pdb

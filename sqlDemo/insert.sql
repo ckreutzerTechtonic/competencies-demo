@@ -17,4 +17,5 @@ VALUES
   ("Double Black Diamond Development", 1, NULL),	
   ("Real Property Management", 0,	"No blanket policy - some owners may have restrictions"),
   ("1 Blue Realty", 1, NULL),	
-  ("Evolve Real Estate", 1, NULL);	
+  ("Evolve Real Estate", 1, NULL),
+  ("PMI Elevation", 1, NULL);
